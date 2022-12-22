@@ -4,6 +4,5 @@ pandas
 altair
 seaborn
 matplotlib
-mpl_toolkits.mplot3d
 numpy
 protobuf
